@@ -1,5 +1,6 @@
 interface NavItemProps {
   label: string;
+  divider: string;
 }
 
 function NavItem(props: NavItemProps): JSX.Element {
