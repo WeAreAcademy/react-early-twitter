@@ -3,7 +3,7 @@ import NavItem from "./NavItem";
 function AppHeader(): JSX.Element {
   return (
     <header>
-      <h2>twitter</h2>
+      <h2>twitter!</h2>
       <nav>
         <NavItem label={'updates'} />
         <NavItem label={'archive'} />
