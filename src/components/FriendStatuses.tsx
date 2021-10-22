@@ -6,7 +6,7 @@ function FriendStatuses(): JSX.Element {
       <h2>friend's status</h2>
       <a href="#">add more friends</a>
       <ol>
-      <StatusItem
+        <StatusItem
           username={"jram"}
           content={"hello!"}
           timeAgo={{ n: 2, unit: "minutes" }}
