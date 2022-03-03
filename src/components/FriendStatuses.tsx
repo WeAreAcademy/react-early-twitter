@@ -22,7 +22,7 @@ function FriendStatuses(): JSX.Element {
           content={"so excited about new odeo ideas"}
           emoji={"⭐"}
           timeAgo={{ n: 19, unit: "minutes" }}
-        />
+        /> 
         <StatusItem
           username={"Tony Stubblebine"}
           content={"thinking about polyphasic sleep"}
